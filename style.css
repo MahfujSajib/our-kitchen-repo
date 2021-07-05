@@ -9,7 +9,7 @@ body{
     margin-bottom: 120px;
 }
 span{
-    color: red;
+    color: rgb(255, 24, 24);
 }
 .fsize{
     font-size: 40px;
@@ -23,10 +23,10 @@ font{
     border-radius: 50px;
     padding: 2px 50px;
     text-decoration: none;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-size: 20px;
     margin-top: 20px;
-    background-image: linear-gradient(rgb(0, 255, 255),rgb(0, 0, 255));
+    background-image: linear-gradient(rgb(7, 7, 7),rgb(0, 0, 0));
 }
 .link-btn:hover{
     color: rgb(255, 0, 0);
@@ -35,7 +35,6 @@ font{
     height: 600px;
     width: 600px;
     border-radius: 50%;
-    margin-left: 40%;
     
 }
 .flexi{
@@ -44,15 +43,12 @@ font{
     background-repeat: no-repeat;
     width: 100%;
     margin-bottom: 120px;
-    
-
 }
 .secondpic{
     height: 600px;
     width: 600px;
     border-radius: 50%;
     margin-left: 150px;
-
 }
 .about{
   padding: 100px;
@@ -69,7 +65,6 @@ font{
     margin: 30px;
     padding: 50px;
     margin-bottom: 80px;
-    
 }
 .container1{
     border: 7px solid rgb(247, 247, 247);
@@ -79,7 +74,6 @@ font{
     border-radius: 30px;
     background-color: rgb(255, 255, 255);
     box-shadow: 10px 20px 2px rgba(245, 245, 245, 0.596);
-    
 }
 .container2{
     border: 7px solid rgb(247, 247, 247);
@@ -89,7 +83,6 @@ font{
     border-radius: 30px;
     background-color: rgb(255, 255, 255);
     box-shadow: 10px 20px 2px rgba(245, 245, 245, 0.596);
-    
 }
 .container3{
     border: 7px solid rgb(247, 247, 247);
@@ -99,7 +92,6 @@ font{
     border-radius: 30px;
     background-color: rgb(255, 255, 255);
     box-shadow: 10px 20px 2px rgba(245, 245, 245, 0.596);
-    
 }
 .food{
     width: 80%;
@@ -131,17 +123,20 @@ font{
     box-shadow: 10px 20px 2px rgba(245, 245, 245, 0.596);
 }
 .foot{
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     text-align: center;
-    color: blanchedalmond;
+    color: rgb(247, 247, 247);
     height: 200px;
     
 }
 span{
-    color: orange;
+    color: rgb(255, 165, 0);
 }
 .copyright{
     color: white;
+}
+.socialm{
+    font-size: 18px;
 }
 
 
